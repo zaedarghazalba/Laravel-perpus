@@ -2,7 +2,29 @@
 
 Selamat datang di dokumentasi project Laravel Perpus - Sistem Perpustakaan Digital.
 
+---
+
+## 🚀 BARU? MULAI DI SINI!
+
+**Jika ini pertama kali Anda membuka project ini, mulai dari:**
+
+### 👉 [MULAI_DARI_SINI.md](MULAI_DARI_SINI.md)
+
+Dokumen ini akan memandu Anda langkah demi langkah dari awal sampai siap development!
+
+---
+
 ## Daftar Dokumen
+
+### 0. [MULAI_DARI_SINI.md](MULAI_DARI_SINI.md) ⭐ **WAJIB BACA PERTAMA!**
+Panduan lengkap untuk memulai project dari nol:
+- Checklist persiapan step-by-step
+- Alur development yang jelas
+- Fase-fase pengerjaan
+- Troubleshooting cepat
+- Tips untuk pemula
+
+**Baca dokumen ini untuk**: Mendapatkan panduan langkah demi langkah mulai dari persiapan sampai siap development.
 
 ### 1. [PROJECT_SPECIFICATION.md](PROJECT_SPECIFICATION.md)
 Spesifikasi lengkap project meliputi:
